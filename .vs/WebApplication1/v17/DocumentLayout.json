@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|c:\\users\\rrcas\\onedrive\\\u00E1rea de trabalho\\blockc\\webapplication1\\webapplication1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\hellocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\webapplication1\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\classes\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|c:\\users\\rrcas\\onedrive\\\u00E1rea de trabalho\\blockc\\webapplication1\\webapplication1\\classes\\json\\helloworldresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\classes\\json\\helloworldresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|c:\\users\\rrcas\\onedrive\\\u00E1rea de trabalho\\blockc\\webapplication1\\webapplication1\\classes\\json\\helloworldrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\classes\\json\\helloworldrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|c:\\users\\rrcas\\onedrive\\\u00E1rea de trabalho\\blockc\\webapplication1\\webapplication1\\controllers\\getfontecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\getfontecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\webapplication1\\classes\\json\\getfonteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\classes\\json\\getfonteresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\webapplication1\\controllers\\getmotoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{691AC1E3-6951-499C-9429-CB176E278E9E}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\getmotoristacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloController.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\HelloController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HelloController.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\HelloController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HelloController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:11:31.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HelloWorldResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\HelloWorldResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Classes\\Json\\HelloWorldResponse.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\HelloWorldResponse.cs",
+              "RelativeToolTip": "WebApplication1\\Classes\\Json\\HelloWorldResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:09:31.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HelloWorldRequest.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\HelloWorldRequest.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Classes\\Json\\HelloWorldRequest.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\HelloWorldRequest.cs",
+              "RelativeToolTip": "WebApplication1\\Classes\\Json\\HelloWorldRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:09:21.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetMotoristaController.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\GetMotoristaController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GetMotoristaController.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\GetMotoristaController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GetMotoristaController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:49:56.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetFonteController.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\GetFonteController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\GetFonteController.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Controllers\\GetFonteController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\GetFonteController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:49:45.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Database.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Classes\\Database.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Database.cs",
+              "RelativeToolTip": "WebApplication1\\Classes\\Database.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAAAKIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:44:52.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetFonteResponse.cs",
+              "DocumentMoniker": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\GetFonteResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Classes\\Json\\GetFonteResponse.cs",
+              "ToolTip": "C:\\Users\\rrcas\\OneDrive\\\u00C1rea de Trabalho\\BlockC\\WebApplication1\\WebApplication1\\Classes\\Json\\GetFonteResponse.cs",
+              "RelativeToolTip": "WebApplication1\\Classes\\Json\\GetFonteResponse.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T00:41:45.815Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
